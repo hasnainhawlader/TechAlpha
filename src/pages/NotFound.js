@@ -1,7 +1,7 @@
 import React from "react";
 
 const NotFound = () => {
-  return <div>NotFound</div>;
+  return <div className="w-screen text-center ">NotFound</div>;
 };
 
 export default NotFound;
